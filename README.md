@@ -7,7 +7,7 @@
 - git init  
 - touch index.html  
 ## Clone my GitHub repo  
-- git remote add origin URL (this is the URL from my GitHub repo- I used https)
+- git remote add origin URL (this is the URL from my GitHub repo - I used https)
 ## Push to GitHub
 - git add index.html  
 - git commit -m "cloud"  
